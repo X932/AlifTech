@@ -1,0 +1,19 @@
+.card.services {
+    border: none;
+    width: 100%;
+
+    .container {
+        width: fit-content;
+        
+        .row.header {
+            width: fit-content;
+        }
+        .card-body.sms-gate {
+            color: white;
+            background: #3188ca;
+            width: fit-content;
+            font-family: Roboto, sans-serif;
+            row-gap: 15px;
+        }
+    }
+}

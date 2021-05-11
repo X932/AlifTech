@@ -1,0 +1,18 @@
+.card.our-goals {
+    border: none;
+    background: #ebe9e98a;
+    width: 100%;
+
+    .container {
+        width: fit-content;
+
+        .card-body {
+            width: fit-content;
+
+            .d-flex {
+                column-gap: 15px;
+                width: fit-content;
+            }
+        }
+    }
+}
